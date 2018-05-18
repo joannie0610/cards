@@ -1,0 +1,43 @@
+#p-blue{
+    color: blue;
+}
+
+.header{
+    font-weight: 700; 
+    font-style: italic;
+    font-size: 30px;
+}
+
+#block{
+    width: 320px;
+    background-color: lightgray;
+    border: 0.1rem dashed red;
+}
+
+#block2{
+    background-color: yellow; 
+    border: 0.1rem double orangered;
+    margin: 0.2em;
+    padding: 0.2em;
+}
+
+#block3{
+    background-color: pink;  
+    border: 0.1rem dashed blueviolet;
+    margin: 0.5em; /*外部間隔*/
+    padding: 1em; /*內部間隔*/
+}
+
+#block4{
+    background-color: lightskyblue; 
+    border: 0.1rem dotted green;
+    margin: 0.5em;
+    padding: 1em; 
+}
+
+#block5{
+    background-color: lightgreen;
+    border: 0.2rem groove purple;
+    margin: 0.5em;
+    padding: 1em;  
+}
